@@ -6,8 +6,8 @@ Human Face Recognition using haarcascade_frontalface_default dataset
 
 •	haarcascade_frontalface_default - Dataset for human face recognition
 
-# Image recognition
+# from Image
 ![Alt text](https://github.com/sureshvel002/faceRecognitionPrj/blob/master/images/Screenshot%20(51).png)
 
-# WebCamera recognition
+# from WebCamera 
 ![Alt text](https://github.com/sureshvel002/faceRecognitionPrj/blob/master/images/Screenshot%20(52).png)
